@@ -8,4 +8,4 @@
 
 ## Déploiement
 
-* Lien vers le site déployé sur Netlify : 
+* Lien vers le site déployé sur Netlify : https://transcendent-gaufre-cd7bf0.netlify.app
